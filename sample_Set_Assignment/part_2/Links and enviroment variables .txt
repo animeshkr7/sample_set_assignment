@@ -1,0 +1,6 @@
+WEAVIATE_API_KEY = 'HUGk5mz83fQix0pWeZKeqPYq05mR47n9bxPQ'
+WEAVIATE_CLUSTER =  'https://snldvjlzsyf98dxqwhyla.c0.us-west3.gcp.weaviate.cloud'
+HUGGINGFACE_TOKEN = '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'
+
+
+GitHub link : https://github.com/animeshkr7/sample_set_assignment

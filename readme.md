@@ -1,5 +1,9 @@
 
 
+## Sample_Set_Assignment folder contains part wise assignment solution
+
+alteratively google drive link : https://drive.google.com/drive/folders/1rksu7T2JtJEjADAnop_T4sI2X1apBHlB?usp=sharing
+
 
 
 To use it :
