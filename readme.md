@@ -1,23 +1,46 @@
-#### Running the FastAPI backend 
-uvicorn backend:app --reload 
 
-
-### Running the Front End
-
-streamlit run app.py
 
 
 
 To use it :
--Create Environment
--pip install -r requirements.txt
-- run backend and frontend (note: wait for backend to complete setup)
 
-1) By default I am using provided pdf at the backend as requested in assignment .
+- Clone the Repository
+
+- Upload the weaviate cluster api  , weaviate KEY , huggingFace Token
+
+- Create environment :
+CMD:
+
+`` python -m venv myenv
+
+- Activate Environment
+CMD:
+
+`` myenv\Scripts\activate
+
+
+- Install Requirements.txt
+
+``pip install requirements.txt
+
+If want to run frontend and backend separately , then open 2 terminals with environment activated then :
 
 
 
-2) My output for RAG is not that refined (i.e the index range for response) and that's because I made only the protoype for assignment , if required will refine it later.
+#### Running the FastAPI backend 
+`` uvicorn backend:app --reload 
+
+
+### Running the Front End
+
+`` streamlit run app.py
+
+
+ELSE : CMD : ( may occur issue of update the backend code while experimenting)
+
+`` python run_both.py
+
+
 
 
 
