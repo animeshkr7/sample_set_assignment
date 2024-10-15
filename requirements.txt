@@ -1,0 +1,16 @@
+weaviate-client
+langchain
+langchain-community
+tiktoken
+pypdf
+rapidocr-onnxruntime
+python-dotenv
+sentence-transformers
+fastapi
+pydantic
+streamlit
+requests
+uvicorn # for running 
+python-multipart
+
+-e .
